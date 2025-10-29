@@ -51,25 +51,19 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats ⚡
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryujan404&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryujan404&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujan404&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<a href="https://github.com/ryujan404/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryujan404&show_icons=true&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/ryujan404/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryujan404&layout=compact&theme=radical&hide_border=true&card_width=320" />
+</a>
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhiljoshi09/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rocketSahab/)
 
 ---
 <p align="center">💻 Building cool stuff | 🚀 Always learning | 🌟 Open to collaborate</p>
