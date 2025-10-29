@@ -8,25 +8,22 @@
 - 👨‍💻 Contributing to **open source** - Check out my contributions!
 - ⚡ Fun fact: **Indigo's Bluchip you use? I was one of the engineers who built it!** 🤗
 
-## 🛠️ Tech Stack
+## My Tech Bucket 🧑‍💻
 
-**Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Programming languages
+![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,java)
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+### Frameworks and libraries
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,django,tailwind,materialui,numpy,tensorflow)
+![Redux-Saga](https://img.shields.io/badge/Redux--Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-3578E5?style=for-the-badge&logo=react&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-43B02A?style=for-the-badge&logo=python&logoColor=white)
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Databases and Other Tools
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,prisma,firebase,supabase,docker,kubernetes,selenium,jest,git,github,redis,aws)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ## 📊 GitHub Stats
 
