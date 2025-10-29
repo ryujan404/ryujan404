@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nikhil Joshi
+# Hi 👋, I'm a passionate software developer with a love for building impactful solutions
 
 ## About Me
 🎯 Full Stack AI Developer | Open Source Contributor | Tech Enthusiast
@@ -64,6 +64,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhiljoshi09/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rocketSahab/)
-
----
-<p align="center">💻 Building cool stuff | 🚀 Always learning | 🌟 Open to collaborate</p>
